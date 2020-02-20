@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="test_1"
+    errors="0" failures="1" hostname="" id="" package="test_1" skipped="0"
+    tests="1" time="8.981" timestamp="">
+  
+    <testcase name="test 1 login to gmail" classname="test_1" time="8.981" assertions="4">
+
+    
+
+    
+
+      <failure message="Timed out while waiting for element &lt;//div[@class=&#39;T-I J-J5-Ji T-I-KE L3&#39;]&gt; to be present for 5000 milliseconds. - expected [0;32m&#34;visible&#34;[0m but got: [0;31m&#34;not found&#34;[0m [0;90m(5192ms)[0m">    at Object.test 1 login to gmail (/Users/marmoset/Downloads/acrontum_test/tests/test_1.js:18:14)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)</failure>
+
+    
+      <failure message="    at Object.test 1 login to gmail (/Users/marmoset/Downloads/acrontum_test/tests/test_1.js:18:14)">    at processTicksAndRejections (internal/process/task_queues.js:97:5)</failure>
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
